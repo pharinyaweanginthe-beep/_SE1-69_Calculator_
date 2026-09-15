@@ -4,7 +4,11 @@
 ฟีเจอร์การทำงาน (Features)
 1.เครื่องคิดเลขนี้ทำงานผ่าน commandline (terminal)
 2.มีฟังก์ชันทางคณิตศาสตร์เบื้องต้นและขั้นสูงดังนี้ :
-  2.1 + การบวก (addition)
-  2.2 - การลบ (subtraction)
-  2.3 * การคูณ (multiplication)
-  2.4 / การหาร (division)
+-  2.1 + การบวก (addition)
+-  2.2 - การลบ (subtraction)
+-  2.3 * การคูณ (multiplication)
+-  2.4 / การหาร (division)
+
+  วิธีการ ใฃ้งาน (HOW to Run)
+  1. Clone repository นี้ลงเครื่องของคุณ:
+     '''bash
